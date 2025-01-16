@@ -4,7 +4,8 @@ Este script de usuário é projetado para melhorar a experiência de visualizaç
 
 O script monitora a página em busca de elementos específicos que indicam a presença de mensagens de erro relacionadas ao uso de bloqueadores de anúncios.
 Quando um elemento de mensagem de erro é detectado, ele é substituído por um iframe que carrega e reproduz o vídeo do YouTube sem exibir a mensagem de erro.
-Bloqueio de Anúncios:
+
+*Bloqueio de Anúncios*
 
 O script define uma série de seletores CSS que correspondem a diferentes tipos de anúncios no YouTube.
 Em seguida, ele cria estilos CSS que ocultam esses elementos, efetivamente removendo anúncios da página.
