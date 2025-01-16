@@ -1,3 +1,5 @@
+GREASYFORK: https://greasyfork.org/en/scripts/523949-remover-aviso-de-erro-bloquear-an%C3%BAncios-e-remover-shorts-do-youtube
+
 Este script de usuário é projetado para melhorar a experiência de visualização no YouTube, removendo anúncios, avisos de erro e shorts. Aqui está uma visão geral de como funciona:
 
 *Remoção de Avisos de Erro*
