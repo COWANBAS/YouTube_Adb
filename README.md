@@ -1,4 +1,4 @@
-Este script de usuário é projetado para melhorar a experiência de visualização no YouTube, removendo anúncios, avisos de erro e shorts. Aqui está uma visão geral de como ele funciona:
+Este script de usuário é projetado para melhorar a experiência de visualização no YouTube, removendo anúncios, avisos de erro e shorts. Aqui está uma visão geral de como funciona:
 
 *Remoção de Avisos de Erro*
 
