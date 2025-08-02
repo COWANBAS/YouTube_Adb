@@ -13,7 +13,6 @@
 (function () {
   'use strict';
 
-  // Funções e constantes do script de remover aviso de erro do YouTube
   function getAutoplayState() {
     return localStorage.getItem('autoplayNext') === 'true';
   }
@@ -378,4 +377,5 @@
   });
 
   observeShorts();
+
 })();
