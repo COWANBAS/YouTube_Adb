@@ -2,7 +2,7 @@
 // @name         Remover Aviso de erro, Bloquear Anúncios e Remover Shorts do YouTube
 // @description  Pula mensagem de erro por usar bloqueador de anúncios, remove anúncios e shorts do YouTube.
 // @namespace    CowanTUBE
-// @license      CowBas
+// @license      GPL-3.0
 // @version      1.0
 // @author       Cowanbas
 // @match        *://*/*
@@ -379,3 +379,4 @@
   observeShorts();
 
 })();
+
