@@ -27,3 +27,5 @@ Ele também observa o final dos vídeos e, caso a reprodução automática estej
 O script se certifica de que suas funções só sejam executadas uma vez por sessão, usando flags de execução.
 Ele também garante a execução das suas funcionalidades principais quando o DOM estiver totalmente carregado.
 Em resumo, este script melhora significativamente a experiência de visualização no YouTube ao remover elementos indesejados, automatizar a reprodução de vídeos e garantir uma navegação mais limpa e sem interrupções.
+
+Créditos: https://github.com/iamfugui/youtube-adb
