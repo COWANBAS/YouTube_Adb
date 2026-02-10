@@ -1,5 +1,9 @@
 Este script de usuário é projetado para melhorar a experiência de visualização no YouTube, removendo anúncios, avisos de erro e shorts. Aqui está uma visão geral de como funciona:
 
+*Remoção de icones do youtube*
+
+Remove algums icones do youtube para deixar a interface mais minimalista e limpa.
+
 *Remoção de Avisos de Erro*
 
 O script monitora a página em busca de elementos específicos que indicam a presença de mensagens de erro relacionadas ao uso de bloqueadores de anúncios.
