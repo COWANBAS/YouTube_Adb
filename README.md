@@ -1,3 +1,5 @@
+# You Tube ADB
+
 Este script de usuário é projetado para melhorar a experiência de visualização no YouTube, removendo anúncios, avisos de erro. Aqui está uma visão geral de como funciona:
 
 *Remoção de Avisos de Erro*
@@ -12,6 +14,3 @@ O script cria um element para bloquear items especificos relacionados a anúncio
 *Manutenção e Execução*
 
 O script contém um gerador de flags para garantir que so esteja sendo rodado uma vez por sessão no navegador assim evitando um consumo maior de mémoria ram, fica constantemente em verificação para ver se a página não removeu o element para retirar os anuncios da tela inicial e durante a execução do video garantindo a remoção deles.
-
-
-Fork de: https://github.com/iamfugui/youtube-adb
