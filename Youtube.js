@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name            Youtube ADB
 // @description     Remove anúncios e os pula automaticamente nos videos.
+// @license         GPL-3.0
 // @version         3.0
 // @author          Cowanbas
 // @match           *://*.youtube.com/*
@@ -82,3 +83,4 @@
         init();
     }
 })();
+
