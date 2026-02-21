@@ -1,4 +1,4 @@
-#Youtube ADB
+# Youtube ADB
 
 Este script de usuário é projetado para melhorar a experiência de visualização no YouTube, removendo anúncios, avisos de erro. Aqui está uma visão geral de como funciona:
 
